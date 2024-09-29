@@ -759,8 +759,8 @@ video {
   background-color: rgb(24 24 27 / var(--tw-bg-opacity));
 }
 
-.bg-home {
-  background-image: url(../src/image/bg.png);
+.bg-\[url\(\'image\/bg\.png\'\)\] {
+  background-image: url('image/bg.png');
 }
 
 .bg-cover {
